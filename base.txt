@@ -1,0 +1,4 @@
+operador1 opera1
+operador2 opera2
+admin admin
+operador3 opera3
